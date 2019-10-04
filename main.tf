@@ -6,5 +6,6 @@ variable "myvar" {
 
 
 output myout {
+  description = "some output"
   value = var.myvar
 }
