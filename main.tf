@@ -1,7 +1,7 @@
 variable "myvar" {
   type        = string
   description = "some string"
-  default     = null
+  default     = ""
 }
 
 
